@@ -1,4 +1,4 @@
-[Home](./index.pdf) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Other Links](./other.html)
+[Home](https://max-carter-math.github.io/home/) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV.pdf) | [Miscellaneous](./other.html)
 
 ## Teaching
 
