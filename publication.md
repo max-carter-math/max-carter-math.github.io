@@ -12,6 +12,6 @@ Other Articles:
 
 * Two Properties of Totally Disconnected Locally Compact Groups, Bachelor Thesis, University of Newcastle, 2020, article can be found [here](./Honours Thesis.pdf).
 
-* Report of Free Products of Graphs for AMSI Vacation Research Scholarship. Details along with article can be found at: https://vrs.amsi.org.au/student-profile-max-carter/.
+* Report on Free Products of Graphs for AMSI Vacation Research Scholarship. Details along with article can be found at: https://vrs.amsi.org.au/student-profile-max-carter/.
 
 
