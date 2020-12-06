@@ -7,6 +7,6 @@ To find out more about me and my research please visit the links below:
 
 [Contact Information](./contactinfo.html) | [Cirriculum Vitae](./CV.pdf)
 
-[Publications](./publications.html) | [Conferences and Talks](./conf_talks.html)
+[Publications](./publication.html) | [Conferences and Talks](./conf_talks.html)
 
 [Teaching](./teaching.html) | [Other Links](./other.html)
