@@ -2,6 +2,9 @@
 
 #### University of Newcastle (2019 - Present)
 
+* Summer 2 2021
+  * MATH1120 - Mathematics for Engineering, Science and Technology II
+
 * Semester 2 2020
   * MATH2310 - Calculus of Science and Engineering
   * MATH1120 - Mathematics for Engineering, Science and Technology II
