@@ -3,3 +3,6 @@ I am a research student at the University of Newcastle in Australia currently co
 To find out more about me and my research please visit the links below:
 
 
+[Contact Information](./contactinfo.html) | [Research Blog](./blog.html)
+[Publications](./publications.html) | [Conferences and Talks](./conf_talks.html)
+[Teaching](./teaching.html)
