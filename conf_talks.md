@@ -6,7 +6,7 @@
 
 * 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School (Virtual)
 
-* 8-11 Dec 2020: AustMS Virtual Conference
+* 7-11 Dec 2020: AustMS Virtual Conference
 
 
 #### Past Conferences:
