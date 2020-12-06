@@ -5,7 +5,7 @@ I am a research student at the University of Newcastle in Australia currently co
 To find out more about me and my research please visit the links below:
 
 
-[Contact Information](./contactinfo.html) | [Cirriculum Vitae](./CV.html)
+[Contact Information](./contactinfo.html) | [Cirriculum Vitae](./CV.pdf)
 
 [Publications](./publications.html) | [Conferences and Talks](./conf_talks.html)
 
