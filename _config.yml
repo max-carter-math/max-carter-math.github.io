@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Max Carter
-logo: Headshot.jpeg
-description: Researcher in pure mathematics, specialising in topological group theory and operator algebras.                                                                                                                                                                
+description: Researcher in pure mathematics, specialising in topological group theory and operator algebras.   
+github:
+  is_project_page: false
