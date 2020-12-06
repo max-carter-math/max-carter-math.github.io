@@ -4,13 +4,13 @@
 
 Below is my current list of publications. Please contact me if you have any questions or want more information.
 
-Peer Reviewed Articles:
+#### Peer Reviewed Articles:
 
 1. Carter, M., Willis, G., Decomposition Theorems of Automorphism Groups of Trees, *Bulletin of the Australian Mathematical Society*, DOI: 10.1017/S0004972720000465, Published online May 2020.
 
 1. Carter, M., Tornier, S., Willis, G., Free Products of Graphs, *Australasian Journal of Combinatorics*, **78(1)**, (2020), 154-176.
 
-Other Articles:
+#### Other Articles:
 
 * Two Properties of Totally Disconnected Locally Compact Groups, Bachelor Thesis, University of Newcastle, 2020, article can be found [here](./Honours Thesis.pdf).
 
