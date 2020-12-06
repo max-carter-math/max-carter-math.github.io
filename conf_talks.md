@@ -1,6 +1,6 @@
 ## Conferences and Talks
 
-### Upcoming Conferences:
+#### Upcoming Conferences:
 
 * 11-15 Jan 2021: Post Graduate Group Theory Conference (Virtual)
 
@@ -9,11 +9,11 @@
 * 8-11 Dec 2020: AustMS Virtual Conference
 
 
-### Past Conferences:
+#### Past Conferences:
 
 
 
 
 
-### Talks:
+#### Talks:
 
