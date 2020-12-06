@@ -2,6 +2,6 @@
 layout: default
 ---
 
-##Teaching
+# Teaching
 
 
