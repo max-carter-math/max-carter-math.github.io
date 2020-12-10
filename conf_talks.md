@@ -4,9 +4,9 @@
 
 #### Upcoming Conferences:
 
-* 11-15 Jan 2021: Postgraduate Group Theory Conference (Virtual).
+* 11-15 Jan 2021: Postgraduate Group Theory Conference.
 
-* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School (Virtual).
+* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School.
 
 #### Past Conferences:
 
