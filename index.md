@@ -1,4 +1,4 @@
-[Home](https://max-carter-math.github.io/home/) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV.pdf) | [Miscellaneous](./other.html)
+[Home](https://max-carter-math.github.io/home/) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV_06_12_2020.pdf) | [Miscellaneous](./other.html)
 
 
 | <img src="./Headshot.jpeg" width="300"> | Max Carter <br/> Email: max.carter@newcastle.edu.au <br/> School of Mathematical and Physical Science, <br/> University of Newcastle, <br/> Callaghan, NSW, 2308, <br/> Australia |
