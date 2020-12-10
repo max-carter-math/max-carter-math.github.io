@@ -10,7 +10,7 @@
 
 #### Past Conferences:
 
-* 7-11 Dec 2020: AustMS Virtual Conference.
+* 7-11 Dec 2020: 64th Annual Meeting of the AustMS.
 
 #### Talks:
 
