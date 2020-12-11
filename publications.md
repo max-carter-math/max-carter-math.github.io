@@ -6,7 +6,7 @@ Below is my current list of publications. Please contact me if you have any ques
 
 #### Peer Reviewed Articles:
 
-1. Carter, M., Willis, G., Decomposition Theorems of Automorphism Groups of Trees, *Bulletin of the Australian Mathematical Society*, DOI: 10.1017/S0004972720000465, Published online May 2020.
+1. Carter, M., Willis, G., Decomposition Theorems for Automorphism Groups of Trees, *Bulletin of the Australian Mathematical Society*, DOI: 10.1017/S0004972720000465, Published online May 2020.
 
 1. Carter, M., Tornier, S., Willis, G., Free Products of Graphs, *Australasian Journal of Combinatorics*, **78(1)**, (2020), 154-176.
 
