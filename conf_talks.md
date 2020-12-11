@@ -22,3 +22,5 @@
 
 * *Free Products of Graphs*, AMSI Connect Conference, University of Melbourne, 08/02/2019.
 
+* *Free Products of Graphs*, Local Seminar, University of Newcastle, 15/12/2018.
+
