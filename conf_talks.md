@@ -6,11 +6,13 @@
 
 * 11-15 Jan 2021: Postgraduate Group Theory Conference.
 
-* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School.
-
 #### Past Conferences:
 
+* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School.
+
 * 7-11 Dec 2020: 64th Annual Meeting of the AustMS.
+
+* 6-8 Feb 2019: AMSI Connect Conference.
 
 #### Talks:
 
