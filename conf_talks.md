@@ -4,6 +4,8 @@
 
 #### Upcoming Conferences:
 
+* 18-20 Jan 2021: Australian Algebra Conference.
+
 * 11-15 Jan 2021: Postgraduate Group Theory Conference.
 
 #### Past Conferences:
