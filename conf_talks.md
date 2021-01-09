@@ -18,6 +18,8 @@
 
 #### Talks:
 
+* *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference, 15/01/2021.
+
 * *Two Properties of Totally Disconnected Locally Compact Groups*, Honours Thesis Seminar, University of Newcastle, 26/11/2020.
 
 * *Two Properties of Totally Disconnected Locally Compact Groups*, Local Seminar, University of Newcastle, 24/07/2020.
