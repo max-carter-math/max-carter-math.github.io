@@ -4,11 +4,13 @@
 
 #### Upcoming Conferences:
 
-* 18-20 Jan 2021: Australian Algebra Conference.
+* 7-10 Dec 2021: 65th Annual Meeting of the AustMS.
 
-* 11-15 Jan 2021: Postgraduate Group Theory Conference.
+* 18-19 Jan 2021: Australian Algebra Conference.
 
 #### Past Conferences:
+
+* 11-15 Jan 2021: Postgraduate Group Theory Conference.
 
 * 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School.
 
@@ -18,7 +20,9 @@
 
 #### Talks:
 
-* *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference, 15/01/2021.
+* *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Australian Algebra Conference 2020, 18/01/2021.
+
+* *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference 2020, 15/01/2021.
 
 * *Two Properties of Totally Disconnected Locally Compact Groups*, Honours Thesis Seminar, University of Newcastle, 26/11/2020.
 
