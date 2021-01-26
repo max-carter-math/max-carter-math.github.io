@@ -6,9 +6,9 @@
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS.
 
-* 18-19 Jan 2021: Australian Algebra Conference.
-
 #### Past Conferences:
+
+* 18-19 Jan 2021: Australian Algebra Conference.
 
 * 11-15 Jan 2021: Postgraduate Group Theory Conference.
 
