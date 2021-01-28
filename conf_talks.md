@@ -6,6 +6,8 @@
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS.
 
+* 26-31 Jul 2021: Young Geometric Group Theory Conference (YGGT X).
+
 #### Past Conferences:
 
 * 18-19 Jan 2021: Australian Algebra Conference.
