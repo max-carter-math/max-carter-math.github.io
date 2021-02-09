@@ -1,7 +1,7 @@
 [Home](https://max-carter-math.github.io) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV.pdf) | [Miscellaneous](./other.html)
 
 
-| <img src="./Headshot.jpeg" width="152"> | **Max Carter** <br/> **Email:** max.carter@newcastle.edu.au <br/> **Office Location:** SR270, Social Sciences Building, Callaghan Campus <br/>  **Address:** School of Mathematical and Physical Sciences, <br/> The University of Newcastle, Callaghan, NSW, 2308, Australia |
+| <img src="./Headshot.jpeg" width="154"> | **Max Carter** <br/> **Email:** max.carter@newcastle.edu.au <br/> **Office Location:** SR270, Social Sciences Building, Callaghan Campus <br/>  **Address:** School of Mathematical and Physical Sciences, <br/> The University of Newcastle, Callaghan, NSW, 2308, Australia |
                            
 I am a research student at the University of Newcastle in Australia currently completing my Master's degree in mathematics. I am supervised by [Prof. George Willis](https://www.newcastle.edu.au/profile/george-willis#career) and work with other members of the [Zero-Dimensional Symmetry](https://zerodimensional.group/) research group here in Newcastle. 
 
