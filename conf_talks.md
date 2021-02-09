@@ -12,7 +12,7 @@
 
 * 18-19 Jan 2021: Australian Algebra Conference (AAC04), Virtual, Hosted by the University of Melbourne.
 
-* 11-15 Jan 2021: Postgraduate Group Theory Conference, Virtual.
+* 11-15 Jan 2021: Postgraduate Group Theory Conference, Virtual, Hosted by the University of Southampton.
 
 * 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School, Virtual, Hosted by the Bernoulli Centre, EPFL, Lausanne, Switzerland.
 
