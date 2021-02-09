@@ -18,8 +18,8 @@
 </p>
 
 </div>
-     
-<div>
+        
+</br>
 
 <p style="float: left;">
 
@@ -32,7 +32,3 @@ I am a research student at the University of Newcastle in Australia currently co
 My research interests lie firmly in the fields of group theory and operator algebras. More specifically, I'm interested in the study of locally compact groups, their representation theory and related problems concerning operator algebras. I am also interested in operator algebras and Hopf algebras as topics in themselves.
 
 </p>
-
-</div>
-
-</body>
