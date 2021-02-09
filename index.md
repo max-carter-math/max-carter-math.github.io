@@ -16,7 +16,9 @@
 </p>
 
 </div>
-           
+
+<br/>
+
 <div>
     
 I am a research student at the University of Newcastle in Australia currently completing my Master's degree in mathematics. I am supervised by [Prof. George Willis](https://www.newcastle.edu.au/profile/george-willis#career) and work with other members of the [Zero-Dimensional Symmetry](https://zerodimensional.group/) research group here in Newcastle. 
