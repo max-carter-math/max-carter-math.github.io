@@ -5,7 +5,7 @@
     
 <p style="float: left;"> 
     
-<img src="./Headshot.jpeg" width="175">
+<img src="./Headshot.jpeg" width="200">
         
 </p>
     
