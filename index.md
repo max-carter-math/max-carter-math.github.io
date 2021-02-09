@@ -16,9 +16,7 @@
 </p>
 
 </div>
- 
-<br/>
-    
+     
 <div>
 
 <p style="float: left;">
