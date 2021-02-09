@@ -18,7 +18,7 @@
   * [MATH2310 - Calculus of Science and Engineering](https://www.newcastle.edu.au/course/MATH2310)
 
 * Semester 1 2020
-  * [MATH2320 - Real Analysis](https://www.newcastle.edu.au/course/MATH2320)
+  * MATH2320 - Real Analysis
   * [MATH2340 - Linearity and Continuity](https://www.newcastle.edu.au/course/MATH2340)
 
 * Semester 2 2019
