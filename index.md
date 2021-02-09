@@ -7,11 +7,11 @@
     
 <p style="float: left; padding: 0px 15px;"> 
     
-<img src="./Headshot.jpeg" width="160">
+<img src="./Headshot.jpeg" width="170">
         
 </p>
     
-<p style="padding: 30px 40px;">
+<p style="padding: 20px 20px;">
     
 <b> Max Carter </b> <br/> <b> Email: </b> max.carter@newcastle.edu.au <br/> <b> Office Location:</b> SR270, Social Sciences Building, Callaghan Campus <br/> <b>Address:</b> School of Mathematical and Physical Sciences, <br/> The University of Newcastle, Callaghan, NSW, 2308, Australia
         
