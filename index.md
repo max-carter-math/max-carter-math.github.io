@@ -1,6 +1,8 @@
 [Home](https://max-carter-math.github.io) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV.pdf) | [Miscellaneous](./other.html)
 
 
+<body>
+
 <div>
     
 <p style="float: left;"> 
@@ -28,3 +30,5 @@ My research interests lie firmly in the fields of group theory and operator alge
 </p>
 
 </div>
+
+</body>
