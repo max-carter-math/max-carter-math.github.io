@@ -1,6 +1,6 @@
 <table cellspacing="0" cellpadding="0">
     <tr>
-        <td class="left" colspan="2">
+        <td class="left" colspan="2" class="noBorder">
             <img src="./Headshot.jpeg" width="175">
         </td>
         <td class="right">
