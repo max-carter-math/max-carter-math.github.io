@@ -5,7 +5,7 @@
 
 <div>
     
-<p style="float: left; padding: 0px 20px;"> 
+<p style="float: left; padding: 0px 15px;"> 
     
 <img src="./Headshot.jpeg" width="160">
         
