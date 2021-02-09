@@ -16,21 +16,9 @@
 </p>
 
 </div>
-
-<div>
-
-<p style="float: left;">
     
 I am a research student at the University of Newcastle in Australia currently completing my Master's degree in mathematics. I am supervised by <a href="https://www.newcastle.edu.au/profile/george-willis#career"> Prof. George Willis </a> and work with other members of the <a href="https://zerodimensional.group/"> Zero-Dimensional Symmetry </a> research group here in Newcastle. 
 
-</p>
-
-<p style="float: left;">
-
 My research interests lie firmly in the fields of group theory and operator algebras. More specifically, I'm interested in the study of locally compact groups, their representation theory and related problems concerning operator algebras. I am also interested in operator algebras and Hopf algebras as topics in themselves.
-
-</p>
-
-</div>
 
 
