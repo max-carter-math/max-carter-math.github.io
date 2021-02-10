@@ -2,9 +2,9 @@
 
 <div>
     
-<p style="float: left; padding: 19px 20px 0px 20px;"> 
+<p style="float: left; padding: 18px 20px 0px 20px;"> 
     
-<img src="./Headshot.jpeg" width="155">
+<img src="./Headshot.jpeg" width="150">
         
 </p>
     
