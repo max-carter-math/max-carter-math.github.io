@@ -2,7 +2,7 @@
 
 <div>
     
-<p style="float: left; padding: 20px 20px 0px 20px;"> 
+<p style="float: left; padding: 19px 20px 0px 20px;"> 
     
 <img src="./Headshot.jpeg" width="155">
         
