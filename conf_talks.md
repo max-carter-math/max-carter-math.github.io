@@ -12,17 +12,17 @@
 
 #### Past Conferences/Workshops:
 
-* 18-19 Jan 2021: Australian Algebra Conference (AAC04), Virtual, Hosted by the University of Melbourne.
+* 18-19 Jan 2021: Australian Algebra Conference (AAC04), Virtual, Hosted by the University of Melbourne, Australia.
 
-* 11-15 Jan 2021: Postgraduate Group Theory Conference, Virtual, Hosted by the University of Southampton.
+* 11-15 Jan 2021: Postgraduate Group Theory Conference, Virtual, Hosted by the University of Southampton, UK.
 
 * 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School, Virtual, Hosted by the Bernoulli Centre, EPFL, Lausanne, Switzerland.
 
-* 7-11 Dec 2020: 64th Annual Meeting of the AustMS, Virtual, Hosted by the University of New England, Armidale.
+* 7-11 Dec 2020: 64th Annual Meeting of the AustMS, Virtual, Hosted by the University of New England, Armidale, Australia.
 
-* 6-31 Jan 2020: AMSI Summer School 2020, La Trobe University, Melbourne.
+* 6-31 Jan 2020: AMSI Summer School 2020, La Trobe University, Melbourne, Australia.
 
-* 6-8 Feb 2019: AMSI Connect Conference, University of Melbourne.
+* 6-8 Feb 2019: AMSI Connect Conference, University of Melbourne, Australia.
 
 #### Talks:
 
