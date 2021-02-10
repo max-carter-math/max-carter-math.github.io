@@ -6,6 +6,8 @@
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS, University of Newcastle, Australia.
 
+* 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, Banff Research Station, Banff, Canada, Virtual.
+
 * 26-31 Jul 2021: Young Geometric Group Theory Conference (YGGT X), Newcastle University, UK.
 
 #### Past Conferences/Workshops:
