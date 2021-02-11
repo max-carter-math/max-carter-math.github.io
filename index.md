@@ -34,18 +34,20 @@ table, th, td {
 }
 
 .center {
-  margin: 0 auto;
+  margin: auto;
   width: 100%;
   border: 3px solid #73AD21;
   padding: 5px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 </style>
 </head>
 <body>
  
-<div class="center" style="display:flex;justify-content:center;align-items:center;">
+<div class="center">
 <table>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
