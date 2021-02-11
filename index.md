@@ -11,6 +11,7 @@
   display: inline-block;
   font-size: 13px;
   margin: 4px 2px;
+  transition-duration: 0.4s;
   cursor: pointer;
 }
 
@@ -19,6 +20,11 @@
   color: black; 
   border: 2px solid #4CAF50;
   border-radius: 8px;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
 }
 
 </style>
