@@ -35,7 +35,7 @@ table, th, td {
 
 .center {
   margin: auto;
-  width: 80%;
+  width: 90%;
   border: 3px solid #73AD21;
   padding: 10px;
 }
