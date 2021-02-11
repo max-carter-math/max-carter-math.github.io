@@ -30,6 +30,7 @@
 table, th, td {
   border: 0px solid black;
   border-collapse: collapse;
+  width: 100%;
   margin: 0 auto;
 }
 
