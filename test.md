@@ -1,30 +1,41 @@
-<table style="border-collapse: collapse; border: none;">
+<table>
 
-<tr style="border: 0px;">
-  
-<td style="border: 0px;"> 
-    
-<img src="./Headshot.jpeg" width="145"> 
-    
+<td style="text-align: center; vertical-align: middle;">
+
+<form action="https://max-carter-math.github.io">
+    <input type="submit" value="Home" />
+</form>
+
 </td> 
-    
-<td style="border: 0px;"> 
-    
-<b> Max Carter </b> <br/> <b> Email: </b> max.carter@newcastle.edu.au <br/> <b> Office Location:</b> SR270, Social Sciences Building, Callaghan Campus <br/> <b>Address:</b> School of Mathematical and Physical Sciences, <br/> The University of Newcastle, Callaghan, NSW, 2308, Australia
-    
-    
-<div>
-    
-<p style="float: left; padding: 14px 20px 0px 20px;"> 
-    
-<img src="./Headshot.jpeg" width="145">
-        
-</p>
-    
-<p style="padding: 33px 0px 20px 175px;">
-    
-<b> Max Carter </b> <br/> <b> Email: </b> max.carter@newcastle.edu.au <br/> <b> Office Location:</b> SR270, Social Sciences Building, Callaghan Campus <br/> <b>Address:</b> School of Mathematical and Physical Sciences, <br/> The University of Newcastle, Callaghan, NSW, 2308, Australia
-        
-</p>
 
-</div>
+<td style="text-align: center; vertical-align: middle;">
+
+<a href="./publications.html"> Publications </a>
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+<a href="./conf_talks.html"> Conferences & Talks </a>
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+<a href="./teaching.html"> Teaching </a>
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+<a href="./CV.pdf"> Curriculum Vitae </a>
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+<a href="./other.html"> Miscellaneous </a>
+
+</td> 
+
+</table>
