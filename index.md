@@ -33,10 +33,18 @@ table, th, td {
   margin: 0 auto;
 }
 
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
 </style>
 </head>
 <body>
-  
+ 
+<div class="center">
 <table>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
@@ -45,6 +53,7 @@ table, th, td {
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./CV.pdf"> <button class="button button1"> Curriculum Vitae </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a> </td>
 </table>
+</div>
 
 </body>
 </html>
