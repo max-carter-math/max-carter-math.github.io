@@ -30,18 +30,14 @@
 table, th, td {
   border: 0px solid black;
   border-collapse: collapse;
-}
-
-table.center {
-  margin-left: auto; 
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 </style>
 </head>
 <body>
   
-<table class="center">
+<table>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> </td>
