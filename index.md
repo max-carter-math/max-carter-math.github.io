@@ -75,12 +75,12 @@
 <body>
   
 <table style="padding: 0px 0px 0px 0px;">
-<td> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
-<td> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
-<td> <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> </td>
-<td> <a href="./teaching.html"> <button class="button button1"> Teaching </button> </a> </td>
-<td> <a href="./CV.pdf"> <button class="button button1"> Curriculum Vitae </button> </a> </td>
-<td> <a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="./teaching.html"> <button class="button button1"> Teaching </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="./CV.pdf"> <button class="button button1"> Curriculum Vitae </button> </a> </td>
+<td style="padding: 0px 0px 0px 0px;"> <a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a> </td>
 </table>
 
 </body>
