@@ -27,17 +27,11 @@
   color: white;
 }
 
-table, th, td {
-  border: 0px solid black;
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-
 .center {
   margin: auto;
   width: 100%;
-  border: 3px solid #73AD21;
-  padding: 5px;
+  border: 0px solid #73AD21;
+  padding: 0px;
   display: flex;
   justify-content: center;
   align-items: center;
