@@ -4,37 +4,37 @@
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Home](https://max-carter-math.github.io)
+<a href="https://max-carter-math.github.io"> Home </a>
 
 </td> 
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Publications](./publications.html) 
+<a href="./publications.html"> Publications </a>
 
 </td> 
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Conferences & Talks](./conf_talks.html)
+<a href="./conf_talks.html"> Conferences & Talks </a>
 
 </td> 
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Teaching](./teaching.html)
+<a href="./teaching.html"> Teaching </a>
 
 </td> 
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Curriculum Vitae](./CV.pdf)
+<a href="./CV.pdf"> Curriculum Vitae </a>
 
 </td> 
 
 <td style="text-align: center; vertical-align: middle;">
 
-[Miscellaneous](./other.html)
+<a href="./other.html"> Miscellaneous </a>
 
 </td> 
 
