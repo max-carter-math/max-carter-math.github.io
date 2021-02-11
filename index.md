@@ -9,13 +9,13 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 10px;
+  font-size: 13px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
 .button1 {
-  background-color: green; 
+  background-color: white; 
   color: black; 
   border: 2px solid #4CAF50;
 }
