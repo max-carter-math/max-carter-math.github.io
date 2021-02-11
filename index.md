@@ -51,7 +51,7 @@
 <p>Use the border property to add a border to the button:</p>
 
 
-<a href="./publications.html"> <button class="button button1">Green</button> </a>
+<a href="./publications.html"> <button class="button button1">Green1</button> </a>
 <button class="button button2">Blue</button>
 <button class="button button3">Red</button>
 <button class="button button4">Gray</button>
