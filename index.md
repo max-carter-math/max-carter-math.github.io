@@ -5,7 +5,7 @@
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
-  padding: 0px 0px;
+  padding: 4px 4px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
