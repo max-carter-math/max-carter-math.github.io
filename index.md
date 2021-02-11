@@ -5,7 +5,7 @@
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
-  padding: 4px 4px;
+  padding: 6px 6px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -18,31 +18,9 @@
   background-color: white; 
   color: black; 
   border: 2px solid #4CAF50;
+  border-radius: 8px;
 }
 
-.button2 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #008CBA;
-}
-
-.button3 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #f44336;
-}
-
-.button4 {
-  background-color: white;
-  color: black;
-  border: 2px solid #e7e7e7;
-}
-
-.button5 {
-  background-color: white;
-  color: black;
-  border: 2px solid #555555;
-}
 </style>
 </head>
 <body>
@@ -56,48 +34,6 @@
 
 </body>
 </html>
-
-<table>
-
-<td style="text-align: center; vertical-align: middle;">
-
-<form action="https://max-carter-math.github.io">
-    <input type="submit" value="Home" />
-</form>
-
-</td> 
-
-<td style="text-align: center; vertical-align: middle;">
-
-<a href="./publications.html"> Publications </a>
-
-</td> 
-
-<td style="text-align: center; vertical-align: middle;">
-
-<a href="./conf_talks.html"> Conferences & Talks </a>
-
-</td> 
-
-<td style="text-align: center; vertical-align: middle;">
-
-<a href="./teaching.html"> Teaching </a>
-
-</td> 
-
-<td style="text-align: center; vertical-align: middle;">
-
-<a href="./CV.pdf"> Curriculum Vitae </a>
-
-</td> 
-
-<td style="text-align: center; vertical-align: middle;">
-
-<a href="./other.html"> Miscellaneous </a>
-
-</td> 
-
-</table>
 
 <table style="border-collapse: collapse; border: none; padding: 20px 0px 0px 0px">
   
