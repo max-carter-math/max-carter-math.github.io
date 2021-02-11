@@ -1,4 +1,44 @@
-[Home](https://max-carter-math.github.io) | [Publications](./publications.html) | [Conferences & Talks](./conf_talks.html) | [Teaching](./teaching.html) | [Curriculum Vitae](./CV.pdf) | [Miscellaneous](./other.html)
+
+
+<table>
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Home](https://max-carter-math.github.io)
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Publications](./publications.html) 
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Conferences & Talks](./conf_talks.html)
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Teaching](./teaching.html)
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Curriculum Vitae](./CV.pdf)
+
+</td> 
+
+<td style="text-align: center; vertical-align: middle;">
+
+[Miscellaneous](./other.html)
+
+</td> 
+
+<table>
 
 <table style="border-collapse: collapse; border: none; padding: 20px 0px 0px 0px">
   
