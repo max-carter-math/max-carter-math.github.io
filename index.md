@@ -50,12 +50,12 @@
 <h2>Colored Button Borders</h2>
 <p>Use the border property to add a border to the button:</p>
 
-
-<a href="./publications.html"> <button class="button button1">Green1</button> </a>
-<button class="button button2">Blue</button>
-<button class="button button3">Red</button>
-<button class="button button4">Gray</button>
-<button class="button button5">Black</button>
+<a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> 
+<a href="./publications.html"> <button class="button button1"> Publications </button> </a>
+<a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> 
+<a href="./teaching.html"> <button class="button button1"> Teaching </button> </a> 
+<a href="./CV.pdf"> <button class="button button1"> Curriculum Vitae </button> </a> 
+<a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a> 
 
 </body>
 </html>
