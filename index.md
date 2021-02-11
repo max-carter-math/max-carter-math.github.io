@@ -4,7 +4,9 @@
 
 <td style="text-align: center; vertical-align: middle;">
 
-<a href="https://max-carter-math.github.io" class="btn btn-primary"> Home1 </a>
+<form action="https://max-carter-math.github.io">
+    <input type="submit" value="Home" />
+</form>
 
 </td> 
 
