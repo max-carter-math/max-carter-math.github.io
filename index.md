@@ -4,7 +4,7 @@
 
 <td style="text-align: center; vertical-align: middle;">
 
-<a href="https://max-carter-math.github.io"> Home </a>
+<a href="https://max-carter-math.github.io" class="button"> Home </a>
 
 </td> 
 
