@@ -47,9 +47,6 @@
 </head>
 <body>
 
-<h2>Colored Button Borders</h2>
-<p>Use the border property to add a border to the button:</p>
-
 <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> 
 <a href="./publications.html"> <button class="button button1"> Publications </button> </a>
 <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> 
