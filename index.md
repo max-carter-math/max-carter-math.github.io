@@ -50,7 +50,8 @@
 <h2>Colored Button Borders</h2>
 <p>Use the border property to add a border to the button:</p>
 
-<button class="button button1">Green</button>
+
+<a href="./publications.html"> <button class="button button1">Green</button> </a>
 <button class="button button2">Blue</button>
 <button class="button button3">Red</button>
 <button class="button button4">Gray</button>
