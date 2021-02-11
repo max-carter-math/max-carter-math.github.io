@@ -34,7 +34,7 @@ table, th, td {
 }
 
 .center {
-  margin: auto;
+  margin: 0 auto;
   width: 100%;
   border: 3px solid #73AD21;
   padding: 5px;
@@ -46,7 +46,7 @@ table, th, td {
 <body>
  
 <div class="center" style="text-align: center;">
-<table style="width: 100%;">
+<table>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> </td>
