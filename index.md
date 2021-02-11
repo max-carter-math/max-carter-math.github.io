@@ -74,7 +74,7 @@
 </head>
 <body>
   
-<table style="padding: 0px 0px 0px 0px;">
+<table class="center">
 <td style="padding: 0px 0px 0px 0px;"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px;"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px;"> <a href="./conf_talks.html"> <button class="button button1"> Conferences & Talks </button> </a> </td>
