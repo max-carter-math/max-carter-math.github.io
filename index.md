@@ -28,7 +28,7 @@
 }
 
 table, th, td {
-  width: 500px;
+  width: 600px;
   border: 0px solid black;
   border-collapse: collapse;
   margin: 0 auto;
