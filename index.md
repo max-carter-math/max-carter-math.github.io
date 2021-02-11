@@ -38,13 +38,14 @@ table, th, td {
   width: 100%;
   border: 3px solid #73AD21;
   padding: 10px;
+  text-align: center;
 }
 
 </style>
 </head>
 <body>
  
-<div class="center" style="justify-content: center">
+<div class="center">
 <table>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="https://max-carter-math.github.io/"> <button class="button button1"> Home </button> </a> </td>
 <td style="padding: 0px 0px 0px 0px; border: 0px"> <a href="./publications.html"> <button class="button button1"> Publications </button> </a> </td>
