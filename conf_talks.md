@@ -63,6 +63,8 @@
 
 * 26-31 Jul 2021: Young Geometric Group Theory Conference (YGGT X), Newcastle University, UK.
 
+* 16-19 Feb 2021: Operator Algebras and their Applications, Hosted by IPM, Iran, Virtual.
+
 #### Past Conferences/Workshops:
 
 * 18-19 Jan 2021: Australian Algebra Conference (AAC04), Virtual, Hosted by the University of Melbourne, Australia.
