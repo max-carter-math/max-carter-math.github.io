@@ -61,6 +61,7 @@
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
   * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
   * [MATH2310 - Calculus of Science and Engineering](https://www.newcastle.edu.au/course/MATH2310)
+  * [MATH3205 - Fourier Analysis](https://www.newcastle.edu.au/course/MATH3205) (Marking Only)
 
 * Summer 2 2021
   * [MATH1120 - Mathematics for Engineering, Science and Technology II](https://www.newcastle.edu.au/course/MATH1120)
