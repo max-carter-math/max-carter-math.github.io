@@ -57,6 +57,8 @@
 
 #### University of Newcastle (2019 - Present)
 
+I have taught workshops and tutorials for the following courses at the University of Newcastle:
+
 * Semester 1 2021
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
   * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
@@ -81,3 +83,10 @@
 
 * Semester 1 2019
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
+
+
+#### Private Tutoring (2017 - Present)
+
+I provide private tutoring for university level mathematics students from undergraduate to postgraduate level. I also tutor some some physics and computer sciences topics as well. Students can contact me through the following link: [https://studentvip.com.au/tutors/10234/max](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from the University of Newcastle in person. Students not in the Newcastle area I can tutor online, including international students.
+
+I can tutor honours/postgraduate level mathematics courses in any areas such as topology, algebra, real/complex/functional analysis, group theory, measure theory, differential geometry/topology, representation theory, graph theory etc. I may also be able to assist in areas such as theoretical computer science, category theory, algebraic geometry, algebraic number theory and quantum physics, though, I don't have a high level of expertise in these areas. Feel free to contact me about any topics that don't fit under these headings.
