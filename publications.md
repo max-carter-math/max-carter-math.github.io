@@ -61,7 +61,7 @@ Below is my current list of publications. Please contact me if you have any ques
 
 * Carter, M., *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, In preparation, (2021).
 
-* Carter, M., *Totally Disconnected Locally Compact Groups Acting on Trees: A Survey*, In preparation, (2021).
+* Carter, M., *Totally Disconnected Locally Compact Groups Acting on Discrete Structures: A Survey*, In preparation, (2021).
 
 #### Published Articles:
 
