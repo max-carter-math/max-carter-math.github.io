@@ -61,8 +61,6 @@ Below is my current list of publications. Please contact me if you have any ques
 
 * Carter, M., *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, In preparation, (2021).
 
-* Carter, M., *Totally Disconnected Locally Compact Groups Acting on Discrete Structures: A Survey*, In preparation, (2021).
-
 #### Published Articles:
 
 * Carter, M., Willis, G., *Decomposition Theorems for Automorphism Groups of Trees*, Bulletin of the Australian Mathematical Society, **103(1)**, (2021), 104-112. [Arxiv](https://arxiv.org/abs/2003.09110). [Journal Article](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/abs/decomposition-theorems-for-automorphism-groups-of-trees/D4FB2676C75E555B411B391BF21D99FF).
