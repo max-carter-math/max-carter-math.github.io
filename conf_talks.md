@@ -61,7 +61,7 @@
 
 * 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, Banff Research Station, Banff, Canada, Virtual.
 
-* 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>*</sup>A 2021), Muenster, Germany, Virtual.
+* 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2021), Muenster, Germany, Virtual.
 
 #### Past Conferences/Workshops:
 
