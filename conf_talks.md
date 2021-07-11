@@ -59,6 +59,8 @@
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS, University of Newcastle, Australia.
 
+* 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, University of Copenhagen, Virutal.
+
 * 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, Banff Research Station, Banff, Canada, Virtual.
 
 * 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2021), Münster, Germany, Virtual.
