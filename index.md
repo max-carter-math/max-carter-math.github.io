@@ -57,7 +57,7 @@
   
 <td style="border: 0px;"> 
     
-<img src="./Headshot.jpeg" width="145"> 
+<img src="./Headshot1.jpeg" width="145"> 
     
 </td> 
     
