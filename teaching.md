@@ -60,8 +60,10 @@
 I have taught workshops and tutorials for the following courses at the University of Newcastle:
 
 * Semester 2 2021
+  * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
   * [MATH1510 - Discrete Mathematics](https://www.newcastle.edu.au/course/MATH1510)
   * [MATH2310 - Calculus of Science and Engineering](https://www.newcastle.edu.au/course/MATH2310)
+  * [MATH4101 - Topological Groups] (Marking only)
 
 * Semester 1 2021
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
