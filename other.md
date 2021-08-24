@@ -56,3 +56,5 @@
 ## Other Links
 
 * I currently work in the Zero-Dimensional Symmetry research group at the Univeristy of Newcastle. The research group specialises in studying totally disconnected locally compact groups. Please visit our homepage [http://zerodimensional.group/](http://zerodimensional.group/) to see our latest work along with upcoming conferences and events.
+
+* I am apart of the organising team for the (GT)^2 Graduate Symposium. Visit the following website for more information and upcoming talks: [https://www.maths.usyd.edu.au/u/GTSquared/](https://www.maths.usyd.edu.au/u/GTSquared/)
