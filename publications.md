@@ -59,7 +59,7 @@ Below is my current list of publications. Please contact me if you have any ques
 
 #### Preprints:
 
-* Carter, M., *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, In preparation, (2021).
+* Carter, M., Willis, G., *Homomorphic Images of Locally Compact Groups Acting on Trees and Buildings*, In preparation, (2021).
 
 #### Published Articles:
 
