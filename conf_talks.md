@@ -85,6 +85,8 @@
 
 #### Talks:
 
+* *Representation Theory of Locally Compact Groups: Spherical and Induced Representations*, Local Seminar, University of Newcastle, 06/09/2021.
+
 * *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Australian Algebra Conference (AAC04), 18/01/2021.
 
 * *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference 2020, 15/01/2021.
