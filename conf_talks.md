@@ -57,13 +57,15 @@
 
 #### Upcoming Conferences/Workshops:
 
+Come back soon for 2022 conference schedule.
+
+#### Past Conferences/Workshops:
+
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS, University of Newcastle, Australia.
 
 * 17-19 Nov 2021: 5th Australian Algebra Conference, University of Western Australia, Virtual.
 
 * 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, University of Copenhagen, Virutal.
-
-#### Past Conferences/Workshops:
 
 * 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, Banff Research Station, Banff, Canada, Virtual.
 
@@ -85,19 +87,21 @@
 
 #### Talks:
 
-* *Representation Theory of Locally Compact Groups: Spherical and Induced Representations*, Local Seminar, University of Newcastle, 06/09/2021.
+* *Graduate Address*, College of Engineering Science and Environment graduation ceremony, The University of Newcastle, 13/12/2021.
+
+* *Representation Theory of Locally Compact Groups: Spherical and Induced Representations*, Local Seminar, The University of Newcastle, 06/09/2021.
 
 * *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Australian Algebra Conference (AAC04), 18/01/2021.
 
 * *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference 2020, 15/01/2021.
 
-* *Two Properties of Totally Disconnected Locally Compact Groups*, Honours Thesis Seminar, University of Newcastle, 26/11/2020.
+* *Two Properties of Totally Disconnected Locally Compact Groups*, Honours Thesis Seminar, The University of Newcastle, 26/11/2020.
 
-* *Two Properties of Totally Disconnected Locally Compact Groups*, Local Seminar, University of Newcastle, 24/07/2020.
+* *Two Properties of Totally Disconnected Locally Compact Groups*, Local Seminar, The University of Newcastle, 24/07/2020.
 
-* *Decomposition Theorems for Automorphism Groups of Trees*, Local Seminar, University of Newcastle, 07/11/2019.
+* *Decomposition Theorems for Automorphism Groups of Trees*, Local Seminar, The University of Newcastle, 07/11/2019.
 
 * *Free Products of Graphs*, AMSI Connect Conference, University of Melbourne, 08/02/2019.
 
-* *Free Products of Graphs*, Local Seminar, University of Newcastle, 15/12/2018.
+* *Free Products of Graphs*, Local Seminar, The University of Newcastle, 15/12/2018.
 
