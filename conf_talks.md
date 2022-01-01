@@ -57,21 +57,21 @@
 
 #### Upcoming Conferences/Workshops:
 
-* Dec 2022: 66th Annual Meeting of the AustMS, University of NSW, Australia.
+* Dec 2022: 66th Annual Meeting of the AustMS, hosted by the University of New South Wales, Australia.
 
-* 8-12 Aug 2022: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022), University of Oslo, Norway.
+* 8-12 Aug 2022: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022), hosted by the University of Oslo, Norway.
 
-* 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, University of Copenhagen, Denmark.
+* 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
 #### Past Conferences/Workshops:
 
-* 7-10 Dec 2021: 65th Annual Meeting of the AustMS, University of Newcastle, Australia.
+* 7-10 Dec 2021: 65th Annual Meeting of the AustMS, hosted by the University of Newcastle, Australia.
 
-* 17-19 Nov 2021: 5th Australian Algebra Conference, University of Western Australia, Virtual.
+* 17-19 Nov 2021: 5th Australian Algebra Conference, hosted by the University of Western Australia, Virtual.
 
-* 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, University of Copenhagen, Virutal.
+* 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, hosted by the University of Copenhagen, Virutal.
 
-* 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, Banff Research Station, Banff, Canada, Virtual.
+* 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, hosted by Banff Research Station, Banff, Canada, Virtual.
 
 * 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2021), Münster, Germany, Virtual.
 
