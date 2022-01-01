@@ -57,7 +57,11 @@
 
 #### Upcoming Conferences/Workshops:
 
-Come back soon for 2022 conference schedule.
+* Dec 2022: 66th Annual Meeting of the AustMS, University of NSW, Australia.
+
+* 8-12 Aug 2022: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022), University of Oslo, Norway.
+
+* 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, University of Copenhagen, Denmark.
 
 #### Past Conferences/Workshops:
 
@@ -85,7 +89,7 @@ Come back soon for 2022 conference schedule.
 
 * 6-8 Feb 2019: AMSI Connect Conference, University of Melbourne, Australia.
 
-#### Talks:
+#### Past Talks:
 
 * *Graduate Address*, College of Engineering Science and Environment graduation ceremony, The University of Newcastle, 13/12/2021.
 
