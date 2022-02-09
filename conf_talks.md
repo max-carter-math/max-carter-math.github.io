@@ -71,23 +71,25 @@
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS, hosted by the University of Newcastle, Australia.
 
-* 17-19 Nov 2021: 5th Australian Algebra Conference, hosted by the University of Western Australia, Virtual.
+* 29 Nov - 3 Dec 2021: Groups and Geometries, hosted by MATRIX, Creswick, Australia, online.
 
-* 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, hosted by the University of Copenhagen, Virutal.
+* 17-19 Nov 2021: 5th Australian Algebra Conference, hosted by the University of Western Australia, online.
 
-* 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, hosted by Banff Research Station, Banff, Canada, Virtual.
+* 18-21 Oct 2021: Automorphisms and Invariants of Operator Algebras, hosted by the University of Copenhagen, online.
 
-* 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2021), Münster, Germany, Virtual.
+* 15-20 Aug 2021: Totally Disconnected Locally Compact Groups via Group Actions, hosted by Banff Research Station, Banff, Canada, online.
 
-* 16-19 Feb 2021: Operator Algebras and their Applications, Hosted by IPM, Iran, Virtual.
+* 2-13 Aug 2021: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2021), Münster, Germany, online.
 
-* 18-19 Jan 2021: Australian Algebra Conference (AAC04), Virtual, Hosted by the University of Melbourne, Australia.
+* 16-19 Feb 2021: Operator Algebras and their Applications, Hosted by IPM, Iran, online.
 
-* 11-15 Jan 2021: Postgraduate Group Theory Conference, Virtual, Hosted by the University of Southampton, UK.
+* 18-19 Jan 2021: Australian Algebra Conference (AAC04), Hosted by the University of Melbourne, Australia, online.
 
-* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School, Virtual, Hosted by the Bernoulli Centre, EPFL, Lausanne, Switzerland.
+* 11-15 Jan 2021: Postgraduate Group Theory Conference, Hosted by the University of Southampton, UK, online.
 
-* 7-11 Dec 2020: 64th Annual Meeting of the AustMS, Virtual, Hosted by the University of New England, Armidale, Australia.
+* 14-18 Dec 2020: Locally Compact Groups Acting on Discrete Structure - WinSum School, Hosted by the Bernoulli Centre, EPFL, Lausanne, Switzerland, online.
+
+* 7-11 Dec 2020: 64th Annual Meeting of the AustMS, Hosted by the University of New England, Armidale, Australia, online.
 
 * 6-31 Jan 2020: AMSI Summer School 2020, La Trobe University, Melbourne, Australia.
 
