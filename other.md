@@ -57,6 +57,6 @@
 
 * I currently work in the Zero-Dimensional Symmetry research group at the Univeristy of Newcastle. The research group specialises in studying totally disconnected locally compact groups. Please visit our homepage [http://zerodimensional.group/](http://zerodimensional.group/) to see our latest work along with upcoming conferences and events.
 
-* I am currently organising a graduate algebra colloquium for students based in Australia. The colloquium is called the Australian Postgraduate Algebra Colloquium (APAC). For more information on the colloquium and to get involved, please visit the APAC website: [https://www.apacmath.org](www.apacmath.org).
+* I am currently organising a graduate algebra colloquium for students based in Australia. The colloquium is called the Australian Postgraduate Algebra Colloquium (APAC). For more information on the colloquium and to get involved, please visit the APAC website: [https://www.apacmath.org](https://www.apacmath.org).
 
 * I am apart of the organising team for the (GT)^2 Graduate Symposium. Visit the following website for more information and to keep up to date with upcoming talks: [https://www.maths.usyd.edu.au/u/GTSquared/](https://www.maths.usyd.edu.au/u/GTSquared/)
