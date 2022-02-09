@@ -65,7 +65,7 @@
 
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
-* 5-9 Feb 2022: Operator Algebras and their Applications, Hosted by IPM, Iran, Virtual.
+* 5-9 Feb 2022: Operator Algebras and their Applications, Hosted by IPM, Iran, online.
 
 #### Past Conferences/Workshops:
 
