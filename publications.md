@@ -59,7 +59,7 @@ Below is my current list of publications. Please contact me if you have any ques
 
 #### Preprints:
 
-* Carter, M., Willis, G., *Homomorphic Images of Locally Compact Groups Acting on Trees and Buildings*, (2021). [arXiv](https://arxiv.org/abs/2112.11744).
+* Carter, M., Willis, G., *Homomorphic Images of Locally Compact Groups Acting on Trees and Buildings*, (2021). To appear in Monatschefte für Mathematik. [arXiv](https://arxiv.org/abs/2112.11744).
 
 #### Published Articles:
 
