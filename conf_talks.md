@@ -61,13 +61,11 @@
 
 * 8-12 Aug 2022: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022), hosted by the University of Oslo, Norway.
 
-* 6-14 Jul 2022: International Congress of Mathematicians (ICM 2022), Saint Petersburg, Russia.
-
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
-* 5-9 Feb 2022: Operator Algebras and their Applications, Hosted by IPM, Iran, online.
-
 #### Past Conferences/Workshops:
+
+* 5-9 Feb 2022: Operator Algebras and their Applications, Hosted by IPM, Iran, online.
 
 * 7-10 Dec 2021: 65th Annual Meeting of the AustMS, hosted by the University of Newcastle, Australia.
 
