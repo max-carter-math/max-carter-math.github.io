@@ -59,6 +59,8 @@
 
 * Dec 2022: 66th Annual Meeting of the AustMS, hosted by the University of New South Wales, Australia.
 
+* Oct 2022: Computational Aspects of Totally Disconnected Locally Compact Groups, hosted by The University of Newcastle, Australia.
+
 * 8-12 Aug 2022: Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022), hosted by the University of Oslo, Norway.
 
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
