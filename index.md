@@ -2,7 +2,7 @@
 <head>
 <style>
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #0066ff; /* Green */
   border: none;
   color: white;
   padding: 6px 6px;
@@ -18,12 +18,12 @@
 .button1 {
   background-color: white; 
   color: black; 
-  border: 2px solid #4CAF50;
+  border: 2px solid #0066ff;
   border-radius: 8px;
 }
 
 .button1:hover {
-  background-color: #4CAF50;
+  background-color: #0066ff;
   color: white;
 }
 
