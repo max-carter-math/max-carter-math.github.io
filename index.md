@@ -69,7 +69,7 @@
 
 </table>
         
-I am a research student at the University of Newcastle in Australia currently completing a research Master's degree in mathematics. I am supervised by <a href="https://www.newcastle.edu.au/profile/george-willis#career"> Prof. George Willis </a> and work with other members of the <a href="https://zerodimensional.group/"> Zero-Dimensional Symmetry </a> research group here in Newcastle. 
+I am a research student at The University of Newcastle in Australia currently completing a research Master's degree in mathematics. I am supervised by <a href="https://www.newcastle.edu.au/profile/george-willis#career"> Prof. George Willis </a> and work with other members of the <a href="https://zerodimensional.group/"> Zero-Dimensional Symmetry </a> research group here in Newcastle. 
 
 My mathematical interests span throughout much of mathematics, though, my main research interests at the present time lie firmly in the fields of topological group theory, functional analysis and harmonic analysis. More specifically, I'm interested in the study of locally compact groups, their representation theory and related problems concerning operator algebras.
 
