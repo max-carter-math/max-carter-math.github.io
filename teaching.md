@@ -59,6 +59,9 @@
 
 I have taught workshops and tutorials for the following courses at the University of Newcastle:
 
+* Summer 2 2022
+  * [MATH1120 - Mathematics for Engineering, Science and Technology II](https://www.newcastle.edu.au/course/MATH1120)
+
 * Semester 2 2021
   * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
   * [MATH1510 - Discrete Mathematics](https://www.newcastle.edu.au/course/MATH1510)
@@ -93,6 +96,6 @@ I have taught workshops and tutorials for the following courses at the Universit
 
 #### Private Tutoring (2017 - Present)
 
-I provide private tutoring for university level mathematics students from undergraduate to postgraduate level. I also tutor some some physics and computer sciences topics as well. Students can contact me through [StudentVIP](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from the University of Newcastle in person. Students not in the Newcastle area I will tutor via Zoom, including international students.
+I provide private tutoring for university level mathematics students from undergraduate to postgraduate level. I also tutor some physics and computer sciences topics as well. Students can contact me through [StudentVIP](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from The University of Newcastle in person. Students not in the Newcastle area I will tutor via Zoom, including international students.
 
 I can tutor honours/postgraduate level mathematics courses in any areas such as topology, algebra, real/complex/functional/harmonic/Fourier analysis, group theory, measure theory, differential geometry/topology, representation theory, graph theory etc. I may also be able to assist in areas such as theoretical computer science, category theory, algebraic geometry, algebraic number theory and quantum physics, though, I don't have a high level of expertise in these areas. Feel free to contact me about any topics that don't fit under these headings.
