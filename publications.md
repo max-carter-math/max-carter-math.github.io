@@ -67,8 +67,8 @@ Below is my current list of publications. Please contact me if you have any ques
 
 #### Other Articles:
 
-* Carter, M., *Two Properties of Totally Disconnected Locally Compact Groups*, Bachelor Thesis, University of Newcastle, 2020. Access the thesis [here](./Honours Thesis.pdf).
+* Carter, M., *Two properties of totally disconnected locally compact groups*, Bachelor (Honours) thesis, The University of Newcastle, 2020. Access the thesis [here](./Honours Thesis.pdf).
 
-* Report on *Free Products of Graphs* for AMSI Vacation Research Scholarship. Details of the scholarship and project, along with the report, can be found at: [https://vrs.amsi.org.au/student-profile-max-carter/](https://vrs.amsi.org.au/student-profile-max-carter/).
+* Report on *Free products of graphs* for AMSI Vacation Research Scholarship. Details of the scholarship and project, along with the report, can be found at: [https://vrs.amsi.org.au/student-profile-max-carter/](https://vrs.amsi.org.au/student-profile-max-carter/).
 
 
