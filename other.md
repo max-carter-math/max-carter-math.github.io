@@ -59,4 +59,4 @@
 
 * I am currently organising a graduate algebra colloquium for students based in Australia. The colloquium is called the Australian Postgraduate Algebra Colloquium (APAC). For more information on the colloquium and to get involved, please visit the APAC website: [https://www.apacmath.org](https://www.apacmath.org).
 
-* My university webpage: [https://www.newcastle.edu.au/profile/max-carter#publications](https://www.newcastle.edu.au/profile/max-carter#publications).
+* My university webpage: [https://www.newcastle.edu.au/profile/max-carter](https://www.newcastle.edu.au/profile/max-carter).
