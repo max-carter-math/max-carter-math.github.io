@@ -72,3 +72,4 @@ Below is my current list of publications. Please contact me if you have any ques
 * Report on *Free products of graphs* for AMSI Vacation Research Scholarship. Details of the scholarship and project, along with the report, can be found at: [https://vrs.amsi.org.au/student-profile-max-carter/](https://vrs.amsi.org.au/student-profile-max-carter/).
 
 
+<a href="https://info.flagcounter.com/q5bF"></a>
