@@ -61,4 +61,3 @@
 
 * My university webpage: [https://www.newcastle.edu.au/profile/max-carter](https://www.newcastle.edu.au/profile/max-carter).
 
-<a href="https://info.flagcounter.com/q5bF"><img src="https://s01.flagcounter.com/count/q5bF/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_32/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
