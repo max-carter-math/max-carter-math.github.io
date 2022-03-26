@@ -119,5 +119,3 @@
 
 * *Free Products of Graphs*, Local Seminar, The University of Newcastle, 15/12/2018.
 
-
-<a href="https://info.flagcounter.com/q5bF"></a>
