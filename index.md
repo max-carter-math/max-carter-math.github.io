@@ -75,3 +75,4 @@ My mathematical interests span throughout much of mathematics, though, my main r
 
 My long-term goals are to pursue a career in mathematics research, and in doing so, I intend to pursue a PhD overseas upon completion of my Master's dergee.
 
+<a href="https://info.flagcounter.com/q5bF"></a>
