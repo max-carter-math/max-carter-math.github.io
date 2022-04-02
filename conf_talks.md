@@ -51,7 +51,7 @@
 </div>
 
 </body>
-</html>
+
 
 ## Conferences and Talks
 
@@ -65,7 +65,7 @@
 
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
-* 20 June 2022: Talk at
+* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium.
 
 * 13-17 Jun 2022: Groups and Algebras in Bicocca for Young algebraists, hosted by University of Milano-Bicocca, Italy.
 
@@ -123,3 +123,4 @@
 
 * 15 Dec 2018: *Free Products of Graphs*, local seminar, The University of Newcastle.
 
+</html>
