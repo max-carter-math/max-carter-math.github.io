@@ -55,7 +55,7 @@
 
 ## Conferences and Talks
 
-#### Upcoming Conferences/Workshops:
+#### Upcoming Conferences/Workshops/Talks:
 
 * Dec 2022: 66th Annual Meeting of the AustMS, hosted by the University of New South Wales, Australia.
 
@@ -65,7 +65,7 @@
 
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
-* 20-25 June 2022: Ischia Group Theory, Naples, Italy.
+* 20 June 2022: Talk at
 
 * 13-17 Jun 2022: Groups and Algebras in Bicocca for Young algebraists, hosted by University of Milano-Bicocca, Italy.
 
@@ -101,7 +101,7 @@
 
 #### Past Talks:
 
-* 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle (Invited Talk).
+* 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle, <p class="bold_text"> (Invited Talk) <p>.
 
 * 17 Mar 2022: *Unitary representations and group algebras of scale groups*, confirmation seminar, The University of Newcastle.
 
