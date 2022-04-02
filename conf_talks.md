@@ -103,23 +103,23 @@
 
 * 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle (Invited Talk).
 
-* 17 Mar 2022: *Unitary representations and group algebras of scale groups*, Confirmation seminar, The University of Newcastle.
+* 17 Mar 2022: *Unitary representations and group algebras of scale groups*, confirmation seminar, The University of Newcastle.
 
 * 13 Dec 2021: *Graduate Address*, College of Engineering Science and Environment graduation ceremony, The University of Newcastle.
 
-* 6 Sep 2021: *Representation Theory of Locally Compact Groups: Spherical and Induced Representations*, Local Seminar, The University of Newcastle.
+* 6 Sep 2021: *Representation Theory of Locally Compact Groups: Spherical and Induced Representations*, local seminar, The University of Newcastle.
 
 * 18 Jan 2021: *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Australian Algebra Conference (AAC04).
 
 * 15 Jan 2021: *Cartan-like Decompositions of Totally Disconnected Locally Compact Groups*, Postgraduate Group Theory Conference 2020.
 
-* 26 Nov 2020: *Two Properties of Totally Disconnected Locally Compact Groups*, Honours Thesis Seminar, The University of Newcastle.
+* 26 Nov 2020: *Two Properties of Totally Disconnected Locally Compact Groups*, Honours thesis seminar, The University of Newcastle.
 
-* 24 July 2020: *Two Properties of Totally Disconnected Locally Compact Groups*, Local Seminar, The University of Newcastle.
+* 24 July 2020: *Two Properties of Totally Disconnected Locally Compact Groups*, local seminar, The University of Newcastle.
 
-* 7 nov 2019: *Decomposition Theorems for Automorphism Groups of Trees*, Local Seminar, The University of Newcastle.
+* 7 nov 2019: *Decomposition Theorems for Automorphism Groups of Trees*, local seminar, The University of Newcastle.
 
 * 8 Feb 2019: *Free Products of Graphs*, AMSI Connect Conference, University of Melbourne.
 
-* 15 Dec 2018: *Free Products of Graphs*, Local Seminar, The University of Newcastle.
+* 15 Dec 2018: *Free Products of Graphs*, local seminar, The University of Newcastle.
 
