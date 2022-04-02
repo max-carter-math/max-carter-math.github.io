@@ -57,7 +57,13 @@
 
 Below is my current list of publications. Please feel free to contact me if you have any questions about anything.
 
-#### Published Articles:
+#### In preparation:
+
+* *Unitary representations of scale and contraction groups*, article.
+
+* *Unitary representations and group algebras of scale group*, Master's thesis, The University of Newcastle.
+
+#### Published articles:
 
 * (with G. Willis) *Homomorphic images of locally compact groups acting on trees and buildings*, Monatshefte für Mathematik, (2022). [Journal Article](https://link.springer.com/article/10.1007/s00605-022-01690-5). [arXiv](https://arxiv.org/abs/2112.11744).
 
@@ -65,7 +71,7 @@ Below is my current list of publications. Please feel free to contact me if you 
 
 * (with S. Tornier and G. Willis) *On free products of graphs*, Australasian Journal of Combinatorics, **78(1)**, (2020), 154-176. [Journal Article](https://ajc.maths.uq.edu.au/pdf/78/ajc_v78_p154.pdf). [arXiv](https://arxiv.org/abs/2002.10639). 
 
-#### Other Articles:
+#### Other articles:
 
 * *Two properties of totally disconnected locally compact groups*, Bachelor (Honours) thesis, The University of Newcastle, 2020. Access the thesis [here](./Honours Thesis.pdf).
 
