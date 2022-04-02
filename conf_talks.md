@@ -50,7 +50,7 @@
 --><a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a>
 </div>
 
-</body>
+
 
 
 ## Conferences and Talks
@@ -123,4 +123,5 @@
 
 * 15 Dec 2018: *Free Products of Graphs*, local seminar, The University of Newcastle.
 
+</body>
 </html>
