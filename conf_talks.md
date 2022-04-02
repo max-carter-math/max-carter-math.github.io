@@ -65,7 +65,7 @@
 
 * 1-4 Jul 2022: Operator Algebras, Dynamics and Groups, hosted by the University of Copenhagen, Denmark.
 
-* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium.
+* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium **(Invited Talk)**.
 
 * 13-17 Jun 2022: Groups and Algebras in Bicocca for Young algebraists, hosted by University of Milano-Bicocca, Italy.
 
@@ -101,7 +101,7 @@
 
 #### Past Talks:
 
-* 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle, <p class="bold_text"> (Invited Talk) <p>.
+* 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle, **(Invited Talk)**.
 
 * 17 Mar 2022: *Unitary representations and group algebras of scale groups*, confirmation seminar, The University of Newcastle.
 
