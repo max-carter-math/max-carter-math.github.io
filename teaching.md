@@ -55,7 +55,7 @@
 
 ## Teaching
 
-#### University of Newcastle (2019 - Present)
+#### The University of Newcastle (2019 - Present)
 
 I have taught workshops and tutorials for the following courses at The University of Newcastle:
 
@@ -94,7 +94,7 @@ I have taught workshops and tutorials for the following courses at The Universit
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
 
 
-#### Private Tutoring (2017 - Present)
+#### Private tutoring (2017 - Present)
 
 I provide private tutoring and mentoring for university level mathematics students studying at postgraduate level (e.g. Master's or PhD level students). Students can contact me through [StudentVIP](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from The University of Newcastle in person. Students not in the Newcastle area I will tutor via Zoom, including international students.
 
