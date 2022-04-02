@@ -57,7 +57,7 @@
 
 #### University of Newcastle (2019 - Present)
 
-I have taught workshops and tutorials for the following courses at the University of Newcastle:
+I have taught workshops and tutorials for the following courses at The University of Newcastle:
 
 * Summer 2 2022
   * [MATH1120 - Mathematics for Engineering, Science and Technology II](https://www.newcastle.edu.au/course/MATH1120)
