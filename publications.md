@@ -59,11 +59,11 @@ Below is my current list of publications. Please feel free to contact me if you 
 
 #### In preparation:
 
-* *Unitary representations of scale and contraction groups*, article.
+* *Unitary representations of scale and contraction groups*, journal article.
 
 * *Unitary representations and group algebras of scale group*, Master's thesis, The University of Newcastle.
 
-#### Published articles:
+#### Published journal articles:
 
 * (with G. Willis) *Homomorphic images of locally compact groups acting on trees and buildings*, Monatshefte für Mathematik, (2022). [Journal Article](https://link.springer.com/article/10.1007/s00605-022-01690-5). [arXiv](https://arxiv.org/abs/2112.11744).
 
