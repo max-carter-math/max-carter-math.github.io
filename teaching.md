@@ -66,13 +66,13 @@ I have taught workshops and tutorials for the following courses at The Universit
   * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
   * [MATH1510 - Discrete Mathematics](https://www.newcastle.edu.au/course/MATH1510)
   * [MATH2310 - Calculus of Science and Engineering](https://www.newcastle.edu.au/course/MATH2310)
-  * MATH4101 - Topological Groups (Marking only)
+  * MATH4101 - Topological Groups (marking only)
 
 * Semester 1 2021
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
   * [MATH1002 - Foundational Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1002)
   * [MATH2310 - Calculus of Science and Engineering](https://www.newcastle.edu.au/course/MATH2310)
-  * [MATH3205 - Fourier Analysis](https://www.newcastle.edu.au/course/MATH3205) (Marking and one-on-one consultations only)
+  * [MATH3205 - Fourier Analysis](https://www.newcastle.edu.au/course/MATH3205) (marking and one-on-one consultations only)
 
 * Summer 2 2021
   * [MATH1120 - Mathematics for Engineering, Science and Technology II](https://www.newcastle.edu.au/course/MATH1120)
