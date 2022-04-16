@@ -67,6 +67,8 @@
 
 * 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium **(Invited Talk)**.
 
+* 13 Jun 2022: Talk at Groups and Algebras in Bicocca for Young algebraists on *Scale group and unitary representation theory*, hosted by the University of Milano-Bicocca, Milan, Italy.
+
 * 13-17 Jun 2022: *Groups and Algebras in Bicocca for Young algebraists*, hosted by the University of Milano-Bicocca, Milan, Italy.
 
 #### Past Conferences/Workshops:
