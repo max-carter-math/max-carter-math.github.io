@@ -65,7 +65,7 @@
 
 * 1-4 Jul 2022: *Operator Algebras, Dynamics and Groups*, hosted by the University of Copenhagen, Denmark.
 
-* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium **(Invited Talk)**.
+* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium.
 
 #### Past Conferences/Workshops:
 
