@@ -61,7 +61,7 @@ I provide private tutoring and mentoring for university level mathematics studen
 
 I can tutor postgraduate level mathematics courses in any areas such as topology, algebra, real/complex/functional/harmonic/Fourier analysis, group theory, measure theory, differential geometry/topology, representation theory, graph theory etc. I may also be able to assist in areas such as theoretical computer science, category theory, algebraic geometry, algebraic number theory and quantum physics, though, I don't have a high level of expertise in these areas. Feel free to contact me about any topics that don't fit under these headings.
 
-I am also open to providing free mathematics tutoring in exchange for language lessons (if you speak a language other than English). I'm interested in learning to speak and improve my skills in any of the following languages: German, French, Russian, Greek. Let me know if you speak any of those languages and would be interested in such an exchange.
+I am also open to providing free mathematics tutoring in exchange for language lessons (if you speak a language other than English). I'm interested in learning to speak and improve my skills in the following languages: French, Greek, Russian, German. Let me know if you speak any of those languages and would be interested in such an exchange.
 
 #### The University of Newcastle (2019 - 2022)
 
