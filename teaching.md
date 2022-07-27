@@ -55,7 +55,15 @@
 
 ## Teaching
 
-#### The University of Newcastle (2019 - Present)
+#### Private tutoring (2017 - Present)
+
+I provide private tutoring and mentoring for university level mathematics students studying at postgraduate level (e.g. Master's or PhD level students). Students can contact me through [StudentVIP](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from The University of Newcastle in person. Students not in the Newcastle area I tutor via Zoom, including students based outside of Australia.
+
+I can tutor postgraduate level mathematics courses in any areas such as topology, algebra, real/complex/functional/harmonic/Fourier analysis, group theory, measure theory, differential geometry/topology, representation theory, graph theory etc. I may also be able to assist in areas such as theoretical computer science, category theory, algebraic geometry, algebraic number theory and quantum physics, though, I don't have a high level of expertise in these areas. Feel free to contact me about any topics that don't fit under these headings.
+
+I am also open to providing free mathematics tutoring in exchange for language lessons (if you speak a language other than English). I'm interested in learning to speak and improve my skills in any of the following languages: German, French, Russian, Greek. Let me know if you speak any of those languages and would be interested in such an exchange.
+
+#### The University of Newcastle (2019 - 2022)
 
 I have taught workshops and tutorials for the following courses at The University of Newcastle:
 
@@ -93,11 +101,3 @@ I have taught workshops and tutorials for the following courses at The Universit
 * Semester 1 2019
   * [MATH1001 - Preparatory Studies in Mathematics](https://www.newcastle.edu.au/course/MATH1001)
 
-
-#### Private tutoring (2017 - Present)
-
-I provide private tutoring and mentoring for university level mathematics students studying at postgraduate level (e.g. Master's or PhD level students). Students can contact me through [StudentVIP](https://studentvip.com.au/tutors/10234/max) or via email. I am currently based in Newcastle Australia and can tutor students from The University of Newcastle in person. Students not in the Newcastle area I will tutor via Zoom, including international students.
-
-I can tutor postgraduate level mathematics courses in any areas such as topology, algebra, real/complex/functional/harmonic/Fourier analysis, group theory, measure theory, differential geometry/topology, representation theory, graph theory etc. I may also be able to assist in areas such as theoretical computer science, category theory, algebraic geometry, algebraic number theory and quantum physics, though, I don't have a high level of expertise in these areas. Feel free to contact me about any topics that don't fit under these headings.
-
-I am also open to providing free mathematics tutoring in exchange for language lessons (if you speak a language other than English). I'm interested in learning to speak and improve my skills in any of the following languages: German, French, Russian, Greek. Let me know if you speak any of those languages and would be interested in such an exchange.
