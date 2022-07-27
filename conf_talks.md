@@ -57,17 +57,15 @@
 
 #### Upcoming Conferences/Workshops/Talks:
 
-* Dec 2022: *66th Annual Meeting of the AustMS*, hosted by the University of New South Wales, Sydney, Australia.
+* 6-9 Dec 2022: *66th Annual Meeting of the AustMS*, hosted by the University of New South Wales, Sydney, Australia.
+
+* 28 Nov - 2 Dec: *Group Actions: Dynamics, Measure and Topology*, hosted by the University of Münster, Germany.
 
 * 24-28 Oct 2022: *Computational Aspects of Totally Disconnected Locally Compact Groups*, hosted by The University of Newcastle, Australia.
 
-* 8-12 Aug 2022: *Young Mathematicians in C<sup>\*</sup>-algebras (YMC<sup>\*</sup>A 2022)*, hosted by the University of Oslo, Norway.
+#### Past Conferences/Workshops:
 
 * 1-4 Jul 2022: *Operator Algebras, Dynamics and Groups*, hosted by the University of Copenhagen, Denmark.
-
-* 20 June 2022: Talk at the UCLouvain group theory seminar on "Scale group and their unitary representation", Louvain-la-Neuve, Belgium.
-
-#### Past Conferences/Workshops:
 
 * 5-9 Feb 2022: *Operator Algebras and their Applications*, hosted by IPM, Iran (online).
 
@@ -98,6 +96,8 @@
 * 6-8 Feb 2019: *AMSI Connect Conference* at the University of Melbourne, Australia.
 
 #### Past Talks:
+
+* 21 Jun 2022: *Unitary representations of contractoin and scale groups via the Mackey little group method*, UCLouvain group theory seminar, Université catholique de Louvain, **(Invited Talk)**.
 
 * 1 Apr 2022: *Unitary representations and the type I property of group acting on trees*, Symmetries in Newcastle seminar, The University of Newcastle, **(Invited Talk)**.
 
