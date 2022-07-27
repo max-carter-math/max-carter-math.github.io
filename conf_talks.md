@@ -57,19 +57,19 @@
 
 #### Upcoming Conferences/Workshops/Talks:
 
-* 6-9 Dec 2022: *66th Annual Meeting of the AustMS*, hosted by the University of New South Wales, Sydney, Australia.
+* 6-9 Dec 2022: *66th Annual Meeting of the AustMS* at the University of New South Wales, Sydney, Australia.
 
-* 28 Nov - 2 Dec: *Group Actions: Dynamics, Measure and Topology*, hosted by the University of Münster, Germany.
+* 28 Nov - 2 Dec: *Group Actions: Dynamics, Measure and Topology* at the University of Münster, Germany.
 
-* 24-28 Oct 2022: *Computational Aspects of Totally Disconnected Locally Compact Groups*, hosted by The University of Newcastle, Australia.
+* 24-28 Oct 2022: *Computational Aspects of Totally Disconnected Locally Compact Groups* at The University of Newcastle, Australia.
 
 #### Past Conferences/Workshops:
 
-* 1-4 Jul 2022: *Operator Algebras, Dynamics and Groups*, hosted by the University of Copenhagen, Denmark.
+* 1-4 Jul 2022: *Operator Algebras, Dynamics and Groups* at the University of Copenhagen, Denmark.
 
 * 5-9 Feb 2022: *Operator Algebras and their Applications*, hosted by IPM, Iran (online).
 
-* 7-10 Dec 2021: *65th Annual Meeting of the AustMS*, hosted by the University of Newcastle, Australia.
+* 7-10 Dec 2021: *65th Annual Meeting of the AustMS* at The University of Newcastle, Australia.
 
 * 29 Nov - 3 Dec 2021: *Groups and Geometries*, hosted by MATRIX, Creswick, Australia (online).
 
