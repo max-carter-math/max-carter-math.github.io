@@ -59,7 +59,7 @@ Below is my current list of publications. Please feel free to contact me if you 
 
 #### In preparation:
 
-* *Unitary representations of scale and contraction groups*, journal article.
+* *On the unitary representations of contraction and scale groups*, journal article.
 
 * *Unitary representations and group algebras of scale group*, Master's thesis, The University of Newcastle.
 
