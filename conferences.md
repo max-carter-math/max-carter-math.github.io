@@ -1,7 +1,7 @@
 
-## Conferences and Talks
+## Conferences
 
-#### Upcoming Conferences/Workshops/Talks:
+#### Upcoming conferences and workshops:
 
 * 6-9 Dec 2022: *66th Annual Meeting of the AustMS* at the University of New South Wales, Sydney, Australia.
 
