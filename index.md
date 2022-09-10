@@ -51,7 +51,7 @@
 </div>
 
 </body>
-</html>
+
 
 <table style="border-collapse: collapse; border: none; padding: 20px 0px 0px 0px">
   
@@ -75,3 +75,4 @@ My academics interests span throughout much of mathematics and philosophy, thoug
 
 Next year I will be beginning my PhD in mathematics at the Université Catholique de Louvain in the research group of Pierre-Emmanuel Caprace and Timothée Marquis.
 
+</html>
