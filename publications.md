@@ -77,7 +77,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
   
 <br> 
   
-<font style="font-size:120%">Other articles</font>\
+<font style="font-size:120%">Other articles</font>
   
 <br>
 
