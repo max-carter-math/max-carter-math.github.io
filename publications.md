@@ -40,7 +40,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 
        <table cellspacing=8>
 	
-        <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>Edge colourings of infinite graphs and connections with groups and formal languages</i>.<\tr>
+        <tr valign="top"> <td align="right"> <b>5.</b> </td> <td> <i>Edge colourings of infinite graphs and connections with groups and formal languages</i>.<\tr>
       
         <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>The unitary representation theory of nilpotent scale and contraction groups</i>.<\tr>
 
