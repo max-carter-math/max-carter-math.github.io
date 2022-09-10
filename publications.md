@@ -65,7 +65,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 	<tr valign="top"> <td align="right"> <b>2.</b> </td> <td> (with G. Willis) <i>Decomposition theorems for automorphism groups of trees</i>,
     <br> Bulletin of the Australian Mathematical Society, <b>103(1)</b>, (2021), 104-112. <a href="https://arxiv.org/abs/2003.09110"><font color="#0000FF">arXiv</font></a> <a href="https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/abs/decomposition-theorems-for-automorphism-groups-of-trees/D4FB2676C75E555B411B391BF21D99FF"><font color="#0000FF">BAMS</font></a></td> </tr>
 	
-	<tr valign="top"> <td align="right"> <b>1.</b> </td> <td> (with S. Tornier and G. Willis) <i>On free products of graphs</i>, <br> Australasian Journal of Combinatorics, <\b>78(1)<\b>, (2020), 154-176.  <a href="https://ajc.maths.uq.edu.au/pdf/78/ajc_v78_p154.pdf"><font color="#0000FF">AJC</font></a> <a href="https://arxiv.org/abs/2002.10639"><font color="#0000FF">arXiv</font>
+	<tr valign="top"> <td align="right"> <b>1.</b> </td> <td> (with S. Tornier and G. Willis) <i>On free products of graphs</i>, <br> Australasian Journal of Combinatorics, <b>78(1)</b>, (2020), 154-176.  <a href="https://ajc.maths.uq.edu.au/pdf/78/ajc_v78_p154.pdf"><font color="#0000FF">AJC</font></a> <a href="https://arxiv.org/abs/2002.10639"><font color="#0000FF">arXiv</font>
 	</a> </td> </tr>
   
 </table>
