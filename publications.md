@@ -38,24 +38,27 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 <font style="font-size:120%">In preparation</font>
 <br>
 
-<table cellspacing=8>
+       <table cellspacing=8>
 	
-    <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>Edge colourings of infinite graphs and connections with groups and formal languages</i>.<\tr>
+        <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>Edge colourings of infinite graphs and connections with groups and formal languages</i>.<\tr>
       
-    <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>The unitary representation theory of nilpotent scale and contraction groups</i>.<\tr>
+        <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>The unitary representation theory of nilpotent scale and contraction groups</i>.<\tr>
 
-    <tr valign="top"> <td align="right"> <b>iii.</b> </td> <td> <i>Representations and group algebras of scale groups</i>, 
+        <tr valign="top"> <td align="right"> <b>iii.</b> </td> <td> <i>Representations and group algebras of scale groups</i>, 
       <\br> Master's thesis, The University of Newcastle. <\tr>
 	      
-</table>
+       </table>
 
-<hr><br>
+    <hr>
+	      
+    <br>
 
 
 <font style="font-size:120%">Published journal articles</font>
+	      
 <br>
 
-<table cellspacing=8>
+       <table cellspacing=8>
   
 	<tr valign="top"> <td align="right"> <b>3.</b> </td> <td> <i>Homomorphic images of locally compact groups acting on trees and buildings</i>,
     <br> Monatshefte für Mathematik, (2022), early access. <a href="https://link.springer.com/article/10.1007/s00605-022-01690-5">
@@ -68,7 +71,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 	<tr valign="top"> <td align="right"> <b>1.</b> </td> <td> (with S. Tornier and G. Willis) <i>On free products of graphs</i>, <br> Australasian Journal of Combinatorics, <b>78(1)</b>, (2020), 154-176.  <a href="https://ajc.maths.uq.edu.au/pdf/78/ajc_v78_p154.pdf"><font color="#0000FF">AJC</font></a> <a href="https://arxiv.org/abs/2002.10639"><font color="#0000FF">arXiv</font>
 	</a> </td> </tr>
   
-</table>
+       </table>
     
 <hr>
   
@@ -78,13 +81,13 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
   
 <br>
 
-<table cellspacing=8>
+       <table cellspacing=8>
 	
-	<tr valign="top"> <td align="right"> <b>ii.</b> </td> <td> <i>Two properties of totally disconnected locally compact groups</i>, <br> Honours thesis, The University of Newcastle, 2020. Available on request. </td> </tr>
+	 <tr valign="top"> <td align="right"> <b>ii.</b> </td> <td> <i>Two properties of totally disconnected locally compact groups</i>, <br> Honours thesis, The University of Newcastle, 2020. Available on request. </td> </tr>
 	
-	<tr valign="top"> <td align="right"> <b>i.</b> </td> <td> Report on <i>Free products of graphs</i> for AMSI Vacation Research Scholarship, <br> Details of the scholarship and project, along with the report, can be found at: <a href="[Masters Thesis GS Final.pdf](https://vrs.amsi.org.au/student-profile-max-carter/)"><font color="#0000FF">pdf</font></a></td> </tr>
+	 <tr valign="top"> <td align="right"> <b>i.</b> </td> <td> Report on <i>Free products of graphs</i> for AMSI Vacation Research Scholarship, <br> Details of the scholarship and project, along with the report, can be found at: <a href="[Masters Thesis GS Final.pdf](https://vrs.amsi.org.au/student-profile-max-carter/)"><font color="#0000FF">pdf</font></a></td> </tr>
   
-</table>
+       </table>
 
 </td>
 </tr>
@@ -93,7 +96,12 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 
 <!-- end #footer -->
 </font>
-</tr></td></table>
+</tr>
+	    
+</td>
+		
+</table>
+		
 </body>
 
 </html>
