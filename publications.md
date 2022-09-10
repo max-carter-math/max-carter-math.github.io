@@ -68,7 +68,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
     <tr>
 	<td nowrap width=790>
 	    <br>
-	 <font style="font-size:220%">michael coons' papers</font>
+	 <font style="font-size:220%">Publications</font>
 
 	</td>
     </tr>
@@ -87,12 +87,14 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-
 <br>
 
 <table cellspacing=8>
+	
     <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>Edge colourings of infinite graphs and connections with groups and formal languages</i>.<\tr>
       
     <tr valign="top"> <td align="right"> <b>4.</b> </td> <td> <i>The unitary representation theory of nilpotent scale and contraction groups</i>.<\tr>
 
     <tr valign="top"> <td align="right"> <b>iii.</b> </td> <td> <i>Representations and group algebras of scale groups</i>, 
       <\br> Master's thesis, The University of Newcastle. <\tr>
+	      
 </table>
 
 <hr><br>
