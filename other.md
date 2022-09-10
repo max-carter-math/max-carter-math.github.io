@@ -50,14 +50,19 @@
 --><a href="./other.html"> <button class="button button1"> Miscellaneous </button> </a>
 </div>
 
-</body>
-</html>
 
-## Other Links
+
+<font style="font-size:110%"><b>Other links</b></font>
 
 * I currently work in the Zero-Dimensional Symmetry research group at The Univeristy of Newcastle. The research group specialises in studying totally disconnected locally compact groups. Visit our webpage [http://zerodimensional.group/](http://zerodimensional.group/) to see some of our groups work and activities.
+  
+<hr><br>
 
 * I am currently organising a graduate algebra colloquium for students based in Australia. The colloquium is called the Australian Postgraduate Algebra Colloquium (APAC). For more information on the colloquium and to get involved, please visit the APAC website: [https://www.apacmath.org](https://www.apacmath.org).
+  
+<hr><br>
 
-* My university webpage: [https://www.newcastle.edu.au/profile/max-carter](https://www.newcastle.edu.au/profile/max-carter).
+<p> My university webpage: [https://www.newcastle.edu.au/profile/max-carter](https://www.newcastle.edu.au/profile/max-carter) </p>
 
+</body>
+</html>
